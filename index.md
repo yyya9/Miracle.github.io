@@ -1,4 +1,3 @@
-# XIUYING WEI
 ## EDUCATION
 **<span style="float:left">Beihang University</span>** *<span style="float:right">September 2020 - Present</span>*
 <br>Master Student, Advisor: Xianglong Liu
@@ -29,9 +28,4 @@ Advisor: Professor [Xianglong Liu](https://xlliu-beihang.github.io/)
 <span style="float:left">Gold Medal of 43rd ACM-ICPC Asia Regional Contest (Qingdao Site)</span> *<span style="float:right">2018</span>* <br>
 <span style="float:left">Gold Medal of 43rd ACM-ICPC Asia Regional Contest (Nanjing Site)</span> *<span style="float:right">2018</span>* <br>
 <span style="float:left">Silver Medal of 4th China Collegiate Programming Contest</span> *<span style="float:right">2018</span>* <br>
-## SKILLS
-**Programming**
-> Python, C/C++, LATEX, Linux/Unix. Strong Pytorch developing experience, including industrial-level quantiza- tion framework, image classification and natural language processing, and distributed training.
 
-**Algorithm**
-> Master in most data structures, common algorithms and their principles, especially in graph theory.
