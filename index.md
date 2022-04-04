@@ -1,38 +1,37 @@
-## Welcome to GitHub Pages
+# XIUYING WEI
+## EDUCATION
+**<span style="float:left">Beihang University</span>** *<span style="float:right">September 2020 - Present</span>*
+<br>Master Student, Advisor: Xianglong Liu
 
-You can use the [editor on GitHub](https://github.com/wimh966/wimh966.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**<span style="float:left">Shandong University</span>** *<span style="float:right">September 2016 - June 2020</span>*
+<br>Bachelor of Engineering in Computer Science and Technology (Honor Class)
+## PUBLICATION
+**Xiuying Wei***, Ruihao Gong*, Yuhang Li, Xianglong Liu, and Fengwei Yu. QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization. In International Conference on Learning Representations, **ICLR 2022**.
+## RESEARCH EXPERIENCE
+**<span style="float:left">Research on pratical post-training quantization and application</span>** *<span style="float:right">November 2021 - Present</span>*<br>
+Research Intern, SenseTime Group Limited<br>
+Advisor: [Ruihao Gong](https://xhplus.github.io/)
+- In charge of post-training quantization part (popular algorithm integration, accuracy comparison and document writing) for the framework of [MQBench](https://mqbench.readthedocs.io/en/latest/), a reproducible and deployable quantization benchmark.
+- Devote to novel and pratical quantization techniques in the field of natural language processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**<span style="float:left">Explore the limit of post-training quantization</span>** *<span style="float:right">March 2021 - October 2021</span>*<br>
+Student in State Key Lab of Software Development Environment<br>
+Advisor: Professor [Xianglong Liu](https://xlliu-beihang.github.io/)
+- Studied post-training quantization, which only uses few images and limited resources to convert cumbersome full precision networks into low-bit integer quantization networks.
+- Conducted a research from quantization optimization procedure perspective and builded a theoretical framework between flatness and quantization.
+- Proposed a simple yet effective method dubbed as QDrop and established a new state of the artespecially at ultra low-bit by randomly dropping activation quantization during calibration. 
+- First author of the proposed algorithm, which is published at ICLR 2022 as a conference paper and has been **rated 8886 by the reviewers**.
+## AWARDS
+<span style="float:left">SenseTime Future Star Award</span> *<span style="float:right">2021</span>* <br>
+<span style="float:left">Silver Medal of 44th ACM-ICPC Asia-East Continent Final</span> *<span style="float:right">2019</span>* <br>
+<span style="float:left">Gold Medal of 5th China Collegiate Programming Contest</span> *<span style="float:right">2019</span>* <br>
+<span style="float:left">Silver Medal of 43rd ACM-ICPC Asia-East Continent Final</span> *<span style="float:right">2018</span>* <br>
+<span style="float:left">Gold Medal of 43rd ACM-ICPC Asia Regional Contest (Qingdao Site)</span> *<span style="float:right">2018</span>* <br>
+<span style="float:left">Gold Medal of 43rd ACM-ICPC Asia Regional Contest (Nanjing Site)</span> *<span style="float:right">2018</span>* <br>
+<span style="float:left">Silver Medal of 4th China Collegiate Programming Contest</span> *<span style="float:right">2018</span>* <br>
+## SKILLS
+**Programming**
+> Python, C/C++, LATEX, Linux/Unix. Strong Pytorch developing experience, including industrial-level quantiza- tion framework, image classification and natural language processing, and distributed training.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wimh966/wimh966.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Algorithm**
+> Master in most data structures, common algorithms and their principles, especially in graph theory.
