@@ -4,8 +4,10 @@
 
 **<span style="float:left">Shandong University</span>** *<span style="float:right">September 2016 - June 2020</span>*
 <br>Bachelor of Engineering in Computer Science and Technology (Honor Class)
+
 ## PUBLICATION
 **Xiuying Wei***, Ruihao Gong*, Yuhang Li, Xianglong Liu, and Fengwei Yu. QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization. In International Conference on Learning Representations, **ICLR 2022**.
+
 ## RESEARCH EXPERIENCE
 **<span style="float:left">Research on pratical post-training quantization and application</span>** *<span style="float:right">November 2021 - Present</span>*<br>
 Research Intern, SenseTime Group Limited<br>
@@ -20,6 +22,7 @@ Advisor: Professor [Xianglong Liu](https://xlliu-beihang.github.io/)
 - Conducted a research from quantization optimization procedure perspective and builded a theoretical framework between flatness and quantization.
 - Proposed a simple yet effective method dubbed as QDrop and established a new state of the artespecially at ultra low-bit by randomly dropping activation quantization during calibration. 
 - First author of the proposed algorithm, which is published at ICLR 2022 as a conference paper and has been **rated 8886 by the reviewers**.
+
 ## AWARDS
 <span style="float:left">SenseTime Future Star Award</span> *<span style="float:right">2021</span>* <br>
 <span style="float:left">Silver Medal of 44th ACM-ICPC Asia-East Continent Final</span> *<span style="float:right">2019</span>* <br>
