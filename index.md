@@ -3,7 +3,7 @@
 <br>Ph.D. in Computer Science and Technology 
 
 **<span style="float:left">Sichuan University</span>** *<span style="float:right">September 2017 - June 2021</span>*
-<br>Bachelor of Engineering in Computer Science and Technology (Honor Class)
+<br>Bachelor of Engineering in Computer Science and Technology 
 
 
 ## WORK EXPERIENCE
